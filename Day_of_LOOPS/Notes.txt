@@ -1,0 +1,139 @@
+**Notes on Loops in C Programming**
+
+### What are Loops?
+Loops are control structures in programming that allow a block of code to be executed repeatedly based on a condition. They help in automating repetitive tasks, iterating over data structures, and performing operations multiple times without writing the same code over and over.
+
+### Types of Loops in C
+There are three main types of loops in C:
+1. **for loop**
+2. **while loop**
+3. **do-while loop**
+
+---
+
+### 1. For Loop
+**Definition:** A for loop is used when you know in advance how many times you want to execute a statement or a block of statements. It consists of three parts: initialization, condition, and increment/decrement.
+
+**Syntax:**
+```c
+for (initialization; condition; increment/decrement) {
+    // code to be executed
+}
+```
+
+**Example:**
+```c
+#include <stdio.h>
+
+int main() {
+    for (int i = 1; i <= 5; i++) {
+        printf("Iteration %d\n", i);
+    }
+    return 0;
+}
+```
+**Output:**
+```
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+```
+
+**When to use:** When the number of iterations is known beforehand.
+
+---
+
+### 2. While Loop
+**Definition:** A while loop repeatedly executes a target statement as long as a given condition is true. The condition is checked before executing the loop body.
+
+**Syntax:**
+```c
+while (condition) {
+    // code to be executed
+}
+```
+
+**Example:**
+```c
+#include <stdio.h>
+
+int main() {
+    int i = 1;
+    while (i <= 5) {
+        printf("Iteration %d\n", i);
+        i++;
+    }
+    return 0;
+}
+```
+**Output:**
+```
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+```
+
+**When to use:** When the number of iterations is not known in advance and depends on a condition that may change during execution.
+
+---
+
+### 3. Do-While Loop
+**Definition:** A do-while loop is similar to a while loop, except that the condition is checked after the execution of the loop body. This means the loop body is executed at least once, even if the condition is false.
+
+**Syntax:**
+```c
+do {
+    // code to be executed
+} while (condition);
+```
+
+**Example:**
+```c
+#include <stdio.h>
+
+int main() {
+    int i = 1;
+    do {
+        printf("Iteration %d\n", i);
+        i++;
+    } while (i <= 5);
+    return 0;
+}
+```
+**Output:**
+```
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+```
+
+**When to use:** When you want to execute the loop body at least once, regardless of the condition.
+
+---
+
+### Key Differences
+- **for loop:** Best when the number of iterations is known. Initialization, condition, and increment are all in one line.
+- **while loop:** Best when the condition needs to be checked before each iteration, and the number of iterations is unknown.
+- **do-while loop:** Best when the loop must execute at least once, and then check the condition.
+
+### Common Loop Control Statements
+- **break:** Exits the loop immediately.
+- **continue:** Skips the current iteration and proceeds to the next one.
+
+**Example with break and continue:**
+```c
+for (int i = 1; i <= 10; i++) {
+    if (i == 5) continue;  // Skip 5
+    if (i == 8) break;     // Stop at 8
+    printf("%d ", i);
+}
+```
+**Output:** 1 2 3 4 6 7
+### Conclusion
+Loops are fundamental in programming for performing repetitive tasks efficiently. Understanding the different types of loops and when
