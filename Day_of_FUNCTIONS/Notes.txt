@@ -1,0 +1,116 @@
+– Simple Notes under 10 points....
+
+ 1. What is a Function?
+
+A function is a block of code that performs a specific task.
+
+ Example:
+Instead of writing the same code again and again, we use a function.
+-------------------------------------------------------------------------------------
+ 2. Why use Functions?
+
+* Reduces code repetition
+* Makes program easy to understand
+* Helps in debugging
+* Improves readability
+-------------------------------------------------------------------------------------
+3. Types of Functions
+
+### (A) Library Functions
+
+Already defined in C
+Example:
+
+* printf()
+* scanf()
+* sqrt()
+
+### (B) User-defined Functions
+
+Created by the programmer
+---------------------------------------------------------------------------------------
+4. Basic Structure of a Function
+
+```c
+return_type function_name(parameters) {
+    // code
+    return value;
+}
+```
+---------------------------------------------------------------------------------------
+ 5. Steps to Use a Function
+
+### 1. Function Declaration
+
+Tells compiler about function
+
+```c
+int add(int, int);
+```
+
+### 2. Function Call
+
+Calling the function in main
+
+```c
+result = add(2, 3);
+```
+
+### 3. Function Definition
+
+Actual function code
+
+```c
+int add(int a, int b) {
+    return a + b;
+}
+```
+-------------------------------------------------------------------------------------
+ 6. Simple Example
+
+```c
+#include <stdio.h>
+
+int add(int a, int b);   // declaration
+
+int main() {
+    int result = add(2, 3);   // function call
+    printf("%d", result);
+    return 0;
+}
+
+int add(int a, int b) {   // definition
+    return a + b;
+}
+-----------------------------------------------------------------------------------------
+
+ 7. Types of Functions (Based on Arguments & Return)
+
+| Type                    | Description       |
+| ----------------------- | ----------------- |
+| No arguments, no return | `void fun()`      |
+| Arguments, no return    | `void fun(int a)` |
+| No arguments, return    | `int fun()`       |
+| Arguments, return       | `int fun(int a)`  |
+
+------------------------------------------------------------------------------------------
+ 8. Important Keywords
+
+* `return` → sends value back
+* `void` → no return value
+* `int`, `float` → return types
+-----------------------------------------------------------------------------------------
+9. Advantages
+
+* Code reuse
+* Better organization
+* Easy testing
+-----------------------------------------------------------------------------------------
+ 10. Key Points to Remember
+
+* Function must be declared before use
+* Parameters and arguments should match
+* Return type must be correct
+
+--------------------------------------------------------------------------------------
+
