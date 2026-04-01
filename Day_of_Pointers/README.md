@@ -2,7 +2,7 @@
 
 
 <h1 align="center">📌 Pointers in C</h1>
-<h3 align="center">🚀 Dark Theme | Animated | Beginner Friendly</h3>
+<h3 align="center">|| Beginner Friendly</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Learn+Pointers+in+C;Master+Memory+Concepts;Crack+C+Programming&center=true&width=500&height=45">
