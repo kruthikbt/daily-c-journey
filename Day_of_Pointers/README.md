@@ -6,7 +6,7 @@
 <h3 align="center">🚀 Complete Notes 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Pointers+Made+Easy;Understand+Memory+Like+a+Pro;C+Programming+Deep+Dive&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=From+variables+to+Addresses;Mastering+Pointers;Deep+Dive+into+Memory+Logic&center=true&width=550&height=45">
 </p>
 
 <p align="center">
@@ -22,6 +22,30 @@
 
 > A pointer is a variable that stores the memory address of another variable.
 
-```c
-int a = 10;
-int *p = &a;
+
+int a = 10;<br
+int *p = &a;<br>
+
+| Symbol | Meaning             |
+| ------ | ------------------- |
+| `&`    | Address of variable |
+| `*`    | Value at address    |
+## 📦 Declaration
+int *p;<br>
+float *f;<br>
+char *c;<br>
+
+## 🔁 Pointer to Pointer
+int a = 10;<br>
+int *p = &a;<br>
+int **pp = &p;<br>
+
+**pp  // 10
+
+## Functions with Pointers<br>
+✅ Call by Value<br>
+ Example: void fun(int x) { x = 20; }<br>
+
+ ✅ Call by Reference<br>
+  Example : void fun(int *x) { *x = 20; }
+
