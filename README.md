@@ -1,12 +1,21 @@
 <!-- 🔥 ANIMATED DAILY C JOURNEY README -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Daily+C+Journey+🚀;Code+Everyday+💻;Consistency+is+Key&center=true&width=600&height=50&color=00FFCC">
-</h1>
-
 <h2 align="center">
   <span style="color:#39FF14;">📘 daily-c-journey</span>
 </h2>
+
+## 🧠 <span style="color:#00FFFF;">ABOUT:</span>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Structured+Learning+📘;Daily+Practice+💻;Problem+Solving+🧠;Continuous+Growth+🚀&center=true&width=500&height=40&color=FF00FF">
+</p>
+
+> <span style="color:#39FF14;">
+©© A structured repository documenting daily C programming practice, problem-solving, and learning progress.
+</span>
+> <span style="color:#00FFFF;">
+  Tracking daily C programming exercises, concepts, and coding improvements. ©©
+</span>
+
 
 ---
 
@@ -17,25 +26,8 @@
   <img src="https://img.shields.io/badge/Progress-Improving-00FFFF?style=for-the-badge">
 </p>
 
----
 
-## 🧠 <span style="color:#00FFFF;">About</span>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Structured+Learning+📘;Daily+Practice+💻;Problem+Solving+🧠;Continuous+Growth+🚀&center=true&width=500&height=40&color=FF00FF">
-</p>
-
-> <span style="color:#39FF14;">
-©© A structured repository documenting daily C programming practice, problem-solving, and learning progress.
-</span>
-
-> <span style="color:#00FFFF;">
-Tracking daily C programming exercises, concepts, and coding improvements. ©©
-</span>
-
----
-
-## ⚡ <span style="color:#39FF14;">Visual Motivation</span>
+## ⚡ <span style="color:#39FF14;">C in Action:</span>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
@@ -43,7 +35,7 @@ Tracking daily C programming exercises, concepts, and coding improvements. ©©
 
 ---
 
-## 🚀 <span style="color:#FF00FF;">Journey Mode</span>
+## 🚀 <span style="color:#FF00FF;">Journey Mode:</span>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Learn+→+Practice+Questions+→+Improve;Repeat+Daily+🔥;Become+Consistent+💯&center=true&width=500&height=40&color=00FFCC">
@@ -51,7 +43,7 @@ Tracking daily C programming exercises, concepts, and coding improvements. ©©
 
 ---
 
-## 💡 <span style="color:#00FFFF;">Core Idea</span>
+## 💡 <span style="color:#00FFFF;">Core Idea:</span>
 
 ```text
 Practice Daily
