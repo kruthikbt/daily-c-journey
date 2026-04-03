@@ -13,7 +13,7 @@
 ©© A structured repository documenting daily C programming practice, problem-solving, and learning progress.
 </span>
 > <span style="color:#00FFFF;">
-  Tracking daily C programming exercises, concepts, and coding improvements. ©©
+  Tracking daily C programming exercises, concept building, and coding improvements. ©©
 </span>
 
 
