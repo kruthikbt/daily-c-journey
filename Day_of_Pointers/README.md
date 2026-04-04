@@ -19,9 +19,9 @@
 ---
 <hr>
 
- ##🧠 What is a Pointer?
+##🧠 What is a Pointer?
 
-> A pointer is a variable that stores the memory address of another variable.
+> A pointer is a variable that stores the memory address of another variable.<br>
 
 
 int a = 10;<br
@@ -44,7 +44,7 @@ int **pp = &p;<br>
 
 **pp  // 10
 <hr>
- ## 🧠<b>Functions with Pointers</b><br>
+## 🧠<b>Functions with Pointers</b><br>
 ✅ Call by Value<br>
  Example: void fun(int x) { x = 20; }</br>
 <br>
