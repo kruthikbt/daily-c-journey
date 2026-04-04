@@ -17,6 +17,7 @@
 </p>
 
 ---
+<hr>
 
 ## 🧠 What is a Pointer?
 
@@ -34,14 +35,14 @@ int *p = &a;<br>
 int *p;<br>
 float *f;<br>
 char *c;<br>
-
+<hr>
 ## 🔁 Pointer to Pointer
 int a = 10;<br>
 int *p = &a;<br>
 int **pp = &p;<br>
 
 **pp  // 10
-
+<hr>
 ## Functions with Pointers<br>
 ✅ Call by Value<br>
  Example: void fun(int x) { x = 20; }<br>
