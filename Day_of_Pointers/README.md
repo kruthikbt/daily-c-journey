@@ -21,7 +21,8 @@
 
 ##🧠 What is a Pointer?
 
-> A pointer is a variable that stores the memory address of another variable.<br>
+> A pointer is a variable that stores the memory address of another variable.
+<br>
 
 
 int a = 10;<br
@@ -32,19 +33,20 @@ int *p = &a;<br>
 | `&`    | Address of variable |
 | `*`    | Value at address    |
 <hr>
-## 📦 <b><u>Declaration</b></u><br>
+##📦 <b><u>Declaration</b></u><br>
 int *p;<br>
 float *f;<br>
 char *c;<br>
 <hr>
-## 🔁 <b>Pointer to Pointer</b><br>
+
+##🔁 <b>Pointer to Pointer</b><br>
 int a = 10;<br>
 int *p = &a;<br>
 int **pp = &p;<br>
 
 **pp  // 10
 <hr>
-## 🧠<b>Functions with Pointers</b><br>
+##🧠<b>Functions with Pointers</b><br>
 ✅ Call by Value<br>
  Example: void fun(int x) { x = 20; }</br>
 <br>
@@ -54,7 +56,7 @@ int **pp = &p;<br>
 <br>
 <br>
 
- ✅ Call by Reference<br>
+✅ Call by Reference<br>
   Example : void fun(int *x) { *x = 20; }<br>
 <br>
 🏹 Call by reference takes place when the memory address of the variable is given as the argument. 
