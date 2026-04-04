@@ -45,7 +45,10 @@ int **pp = &p;<br>
 ## Functions with Pointers<br>
 ✅ Call by Value<br>
  Example: void fun(int x) { x = 20; }<br>
+🏹Here the parameter creates a copy ik which the changes will be done.<br>
+🏹 Call by value takes place when the value of variable is passed as argument. 
 
  ✅ Call by Reference<br>
-  Example : void fun(int *x) { *x = 20; }
+  Example : void fun(int *x) { *x = 20; }<br>
+🏹 Call by reference takes place when the memory address of the variable is given as theaargument. 
 
