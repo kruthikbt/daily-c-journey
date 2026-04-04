@@ -32,7 +32,7 @@ int *p = &a;<br>
 | `&`    | Address of variable |
 | `*`    | Value at address    |
 <hr>
-## 📦 <b><u>Declaration</u></b><br>
+## 📦 <b><u>Declaration</b></u><br>
 int *p;<br>
 float *f;<br>
 char *c;<br>
