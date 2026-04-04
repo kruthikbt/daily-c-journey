@@ -31,19 +31,20 @@ int *p = &a;<br>
 | ------ | ------------------- |
 | `&`    | Address of variable |
 | `*`    | Value at address    |
+<hr>
 ## 📦 Declaration
 int *p;<br>
 float *f;<br>
 char *c;<br>
 <hr>
-## 🔁 Pointer to Pointer
+## 🔁 <b>Pointer to Pointer</b><br>
 int a = 10;<br>
 int *p = &a;<br>
 int **pp = &p;<br>
 
 **pp  // 10
 <hr>
-## Functions with Pointers<br>
+## <b>Functions with Pointers</b><br>
 ✅ Call by Value<br>
  Example: void fun(int x) { x = 20; }<br>
 🏹Here the parameter creates a copy ik which the changes will be done.<br>
