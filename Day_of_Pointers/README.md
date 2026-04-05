@@ -25,7 +25,7 @@
 <br>
 
 
-int a = 10;<br
+int a = 10;<br>
 int *p = &a;<br>
 
 | Symbol | Meaning             |
