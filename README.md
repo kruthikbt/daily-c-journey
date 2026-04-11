@@ -38,7 +38,7 @@
 ## 🚀 <span style="color:#FF00FF;">Journey Mode:</span>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learn+→+Practice+Questions+→+Improve;Repeat+Daily+Practice;Become+Consistent+, Perfect💯&center=true&width=500&height=40&color=00FFCC">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learn+→+Practice+Questions+→+Improve;Repeat+Daily+Practice;Become+Consistent+and+Perfect💯&center=true&width=500&height=40&color=00FFCC">
 </p>
 
 ---
