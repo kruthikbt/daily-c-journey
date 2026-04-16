@@ -11,10 +11,11 @@
 <body>
 
 <div class="container">
-<p align="center"> <img src="https://img.shields.io/badge/C-Language-blue?style=for-the-badge&logo=c"/> <img src="https://img.shields.io/badge/Level-Beginner-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/Topic-Arrays-orange?style=for-the-badge"/> </p>
+<p align="center"> <img src="https://img.shields.io/badge/C-Language-blue?style=for-the-badge&logo=c"/> <img src="https://img.shields.io/badge/Level-Beginner-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/Topic-Arrays-red?style=for-the-badge"/> </p>
 
-<h1>📘 Arrays in C</h1>
-<p class="typing">Simple • Visual • Beginner Friendly 🚀</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+in+rows,+logic+in+flow;Arrays:+The+Backbone+of+Data+Handling🧠;+Built+to+store,+made+to+perform;Arrays:+Small+Syntax+Big+Impact🚀&center=true&width=700&height=60&color=FF00FF">
+</p>
 
 <div class="card">
 <h2>🧠 What is an Array?</h2>
