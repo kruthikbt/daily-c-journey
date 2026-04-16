@@ -1,19 +1,78 @@
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Arrays+in+C+Programming;Learn+Step+by+Step;Simple+%2B+Visual+%2B+Powerful" />
-</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+                                                                     Arrays in C 
 
----
+<link rel="stylesheet" href="style.css">
+</head>
 
-## 🎯 What is an Array?
+<body>
 
-<img src="https://img.shields.io/badge/Concept-Array-blue?style=for-the-badge"/>
+<div class="container">
 
-> An **array** is a collection of elements of the same data type stored in **contiguous memory locations**.
+<h1>📘 Arrays in C</h1>
+<p class="typing">Simple • Visual • Beginner Friendly 🚀</p>
 
----
+<div class="card">
+<h2>🧠 What is an Array?</h2>
+<p>An array is a collection of elements of the same data type stored in continuous memory locations.</p>
+<pre>[10] [20] [30] [40]
+Index: 0   1   2   3</pre>
+</div>
 
-## 📦 Syntax
+<div class="card">
+<h2>⚙️ Declaration</h2>
+<pre>int arr[5];</pre>
+</div>
 
-```c
-data_type array_name[size];
+<div class="card">
+<h2>✍️ Initialization</h2>
+<pre>
+int arr[5] = {10, 20, 30, 40, 50};
+int arr[] = {10, 20, 30};
+</pre>
+</div>
+
+<div class="card">
+<h2>🔍 Accessing Elements</h2>
+<pre>printf("%d", arr[0]);</pre>
+</div>
+
+<div class="card">
+<h2>🔁 Loop Example</h2>
+<pre>
+for(int i = 0; i < 5; i++) {
+    printf("%d ", arr[i]);
+}
+</pre>
+</div>
+
+<div class="card">
+<h2>🎯 Types of Arrays</h2>
+<p>1D → int arr[5];</p>
+<p>2D → int arr[2][3];</p>
+</div>
+
+<div class="card">
+<h2>⚠️ Rules</h2>
+<ul>
+<li>Index starts from 0</li>
+<li>Fixed size</li>
+<li>Same data type</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>🚀 Practice</h2>
+<p></p>
+</div>
+
+</div>
+ <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/> </p> <h3 align="center">💻 Keep Coding • Keep Growing 🚀</h3>
+
+</body>
+</html>
+
+
