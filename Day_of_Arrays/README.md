@@ -11,6 +11,7 @@
 <body>
 
 <div class="container">
+<p align="center"> <img src="https://img.shields.io/badge/C-Language-blue?style=for-the-badge&logo=c"/> <img src="https://img.shields.io/badge/Level-Beginner-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/Topic-Arrays-orange?style=for-the-badge"/> </p>
 
 <h1>📘 Arrays in C</h1>
 <p class="typing">Simple • Visual • Beginner Friendly 🚀</p>
@@ -70,7 +71,10 @@ for(int i = 0; i < 5; i++) {
 </div>
 
 </div>
- <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/> </p> <h3 align="center">💻 Keep Coding • Keep Growing 🚀</h3>
+
+
+
+ <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=160&section=footer"/> </p> <h3 align="center">💻 Keep Coding • Keep Growing 🚀</h3>
 
 </body>
 </html>
