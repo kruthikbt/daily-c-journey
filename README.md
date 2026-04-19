@@ -52,4 +52,4 @@ Improve Logic Building
    ↓
 Build Confidence
    ↓
-Master C Programming
+Master C Problem Solving
