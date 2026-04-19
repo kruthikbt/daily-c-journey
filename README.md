@@ -48,7 +48,7 @@
 ```text
 Practice Daily
    ↓
-Improve Logic
+Improve Logic Building
    ↓
 Build Confidence
    ↓
