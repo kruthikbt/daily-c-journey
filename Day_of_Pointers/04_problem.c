@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int str_length(char *str) {
+int str_length(char  *str) {
     int length = 0;
 
     while (*str != '\0') {
