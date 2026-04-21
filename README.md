@@ -1,7 +1,7 @@
 <!-- 🔥 ANIMATED DAILY C JOURNEY README -->
 
 <h2 align="center">
-  <span style="color:#39FF14;">📘 daily-c-journey</span>
+  <span style="color:#39FF14;">📘 Daily-c-journey</span>
 </h2>
 
 ## 🧠 <span style="color:#00FFFF;">ABOUT:</span>
