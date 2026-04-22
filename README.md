@@ -10,7 +10,7 @@
 </p>
 
 > <span style="color:#39FF14;">
-©© A structured repository documenting daily C programming practice, problem-solving, and learning progress.
+©© A structured repository documenting daily  C programming practice, problem-solving, and learning progress.
 </span>
 > <span style="color:#00FFFF;">
   Tracking daily C programming exercises and, concept building, and coding improvements. ©©
