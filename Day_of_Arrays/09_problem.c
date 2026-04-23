@@ -1,27 +1,25 @@
-//Write a program to search an element using linear search.
+
+// Write a program to print the 2D array as an output.
+
 
 #include <stdio.h>
-int main() {
-    int a[5], i, key, found = 0;
 
-    printf("Enter 5 elements:\n");
-    for(i = 0; i < 5; i++)
-        scanf("%d", &a[i]);
+ int  arr[2][2]={
+        {3,4},
+        {5,6}
+    };
 
-    printf("Enter element to search: ");
-    scanf("%d", &key);
-
-    for(i = 0; i < 5; i++) {
-        if(a[i] == key) {
-            found = 1;
-            break;
-        }
+ int main() {
+ for(int i=0;i<2;i++){
+    for(int j=0;j<2;j++)
+        {
+           
+            printf("%d ",arr[i][j]);
+           
+        }printf("\n");
     }
+        
 
-    if(found)
-        printf("Element found at position %d", i + 1);
-    else
-        printf("Element not found");
+ }   
 
-    return 0;
-}
+    
