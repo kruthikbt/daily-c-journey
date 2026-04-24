@@ -3,7 +3,7 @@
 #include <stdio.h>
 int main() {
     int n;
-    printf("Enter the Number of Terms n (n>1): ");
+    printf ("Enter the Number of Terms n (n>1): ");
     scanf("%d",&n);
 
     int fib[n];
