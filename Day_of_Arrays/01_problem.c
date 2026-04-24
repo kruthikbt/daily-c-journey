@@ -4,7 +4,7 @@
 int main() {
     float  price[3];
         printf("Enter the price of 3 items: ");
-        scanf("%f",&price[0]);
+        scanf ("%f",&price[0]);
         scanf("%f",&price[1]);
         scanf("%f",&price[2]);
 
