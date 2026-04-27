@@ -1,4 +1,4 @@
-/* Write a Function  which uses array as the parameter ,and prints the numbers present in thr array*/
+/* Write a Function  which uses array as the  parameter ,and prints the numbers present in thr array*/
 
 #include <stdio.h>
 
