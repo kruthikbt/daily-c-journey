@@ -1,4 +1,4 @@
-/* Write a program to print the fibonacci series by using Arrays*/
+/* Write a program  to print the fibonacci series by using Arrays*/
 
 #include <stdio.h>
 int main() {
