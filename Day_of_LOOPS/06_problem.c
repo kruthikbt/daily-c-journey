@@ -1,4 +1,4 @@
-// Write a program to print whether the number entered by the user is possitive or negative by using ternary operator. 
+/*Write a program to print whether the number entered by the user is possitive or negative by using ternary operator. 
 
 #include <stdio.h>
 int main() {
