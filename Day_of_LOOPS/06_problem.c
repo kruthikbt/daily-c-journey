@@ -5,7 +5,7 @@ int main() {
 printf("Enter  the value of n:") ;
 scanf("%d", &n) ;
 
-m= n>0? Possitive:Negative
+m= n>0? Possitive :Negative
 printf("%d", m) ;
 
 return 0;
