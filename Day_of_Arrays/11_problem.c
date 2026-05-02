@@ -1,4 +1,6 @@
-4. Find frequency of each element#include <stdio.h>
+11. Find frequency of each element
+
+#include <stdio.h>
 
 int main() {
     int arr[] = {1, 2, 2, 3, 1};
