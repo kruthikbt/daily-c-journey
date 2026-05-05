@@ -1,5 +1,5 @@
 // 2) Print the factorial of n Entered vby the User.
-#include <stdio.h>
+#include  <stdio.h>
 int main() {
     int n;
     printf("Enter the value of n:");
