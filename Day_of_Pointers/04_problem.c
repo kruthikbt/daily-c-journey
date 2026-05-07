@@ -1,4 +1,4 @@
-//Create a pointer function to calculate the length of the entered string from the console.
+//Create a pointer function to calculate the length  of the entered string from the console.
 
 #include <stdio.h>
 
