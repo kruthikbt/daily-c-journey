@@ -2,7 +2,7 @@
 
 // Write a code to execute the concept of pointer to pointer.
 
-#include <stdio.h>
+#include  <stdio.h>
 int main() {
     int n=4;
     int *p=&n;
