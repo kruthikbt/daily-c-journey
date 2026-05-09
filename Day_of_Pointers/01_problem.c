@@ -5,7 +5,7 @@
 #include <stdio.h>
 void operation(int a,int b,int *sum,int *prod,int *avg);
 
-int main() {
+int main()  {
     int a=5,b=6;
     int sum,prod,avg;
     operation(a,b,&sum,&prod,&avg);
