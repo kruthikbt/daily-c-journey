@@ -1,6 +1,6 @@
 
 
-// Write a function using pointers to return the sum of two values,product and the Average of two values.
+// Write  a function using pointers to return the sum of two values,product and the Average of two values.
 
 #include <stdio.h>
 void operation(int a,int b,int *sum,int *prod,int *avg);
