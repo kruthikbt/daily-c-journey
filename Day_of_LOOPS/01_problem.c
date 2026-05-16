@@ -1,6 +1,6 @@
 // Print the table of n given by the user/console.
 # include <stdio.h>
-int main() {
+int main() { 
 int n;
 printf("Enter the value of n :");
 scanf("%d",&n);
