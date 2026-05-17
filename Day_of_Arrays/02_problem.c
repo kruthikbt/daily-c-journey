@@ -1,6 +1,6 @@
 /* Write a program to show the comparision and differnce of pointers*/
 
-#include <stdio.h>
+#include <stdio.h> 
 int main() {
     int age = 23;
     int *ptr = &age;
