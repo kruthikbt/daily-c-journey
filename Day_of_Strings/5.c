@@ -1,4 +1,4 @@
-// Write a Program that inputs users ame and prints the length of the strng
+// Write a Program that inputs users ame and prints the  length of the strng
 
 
 #include <stdio.h>
