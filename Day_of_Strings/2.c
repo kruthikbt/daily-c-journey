@@ -1,6 +1,6 @@
 #include <stdio.h> 
 
-void printstring(char arr[]);
+void printstring (char arr[]);
 
 int  main(){
     char f_n[]="India";
