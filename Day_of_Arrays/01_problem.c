@@ -7,6 +7,7 @@ int main()  {
         scanf ("%f",&price[0]);
         scanf("%f",&price[1]);
         scanf("%f",&price[2]);
+    
 
         printf("Total price of First Item is :%f\n",price[0] + price[0]*0.18);
         printf("Total price of second Item is :%f\n",price[1] + price[1]*0.18);
