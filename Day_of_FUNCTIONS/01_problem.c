@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-voi printTable(int n) ;
+void printTable(int n) ;
   
 int main() {
     int n;
