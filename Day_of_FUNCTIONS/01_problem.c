@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 void printTable(int n) ;
-
+  
 int main() {
     int n;
     printf("Enter  the Value of n:");
