@@ -2,7 +2,7 @@
 
 //  Write a Function to print the table of number n ENtered by the user.
 
-#include  <stdio.h>
+#include <stdio.h>
 
 void printTable(int n) ;
   
