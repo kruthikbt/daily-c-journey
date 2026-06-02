@@ -1,6 +1,6 @@
 // Write a program to print the price of 3 products with gst.
 
-#include  <stdio.h>
+#include <stdio.h>
 int main()  {  
     float  price[3];
         printf("Enter the price of 3 items: ");
