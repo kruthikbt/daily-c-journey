@@ -1,4 +1,4 @@
-/* Write a program to show the comparision and differnce  of pointers*/
+/* Write a program to show the comparision and differnce of pointers*/
 
 #include <stdio.h> 
 int main()  {
