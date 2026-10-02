@@ -5,7 +5,7 @@
   <span style="color:#39FF14;">📘 Daily-c-journey</span>
 </h2>
 
-<p align="center">
+<p align= "center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Structured+Learning+ and+Problem+Solving;Daily+Practice+Implementation💻;Problem+Solving+🧠;Continuous+Grwth+🚀&center=true&width=500&height=40&color=FF00FF">
 </p>
 
