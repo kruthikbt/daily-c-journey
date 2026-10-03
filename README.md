@@ -2,7 +2,7 @@
 
  
 <h2 align= "center">
-  <span style="color:#39FF14;">📘 Daily-c-journey</span>
+  <span style="color:#39FF14;">📘 Daily-c-journey </span>
 </h2>
 
 <p align="center">
